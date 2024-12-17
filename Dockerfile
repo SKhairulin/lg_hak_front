@@ -2,7 +2,7 @@ FROM node:16-alpine AS builder
 
 WORKDIR /app
 
-RUN apk update && apk add git
+#RUN apk update && apk add git
 
 COPY package*.json ./
 
