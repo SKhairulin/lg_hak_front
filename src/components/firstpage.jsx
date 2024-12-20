@@ -1,5 +1,4 @@
-import defaultLogo from '../images/default-logo.png'
-
+import defaultLogo from  '../images/default-logo.png'
 export const Page = () => {
     return (
         <>
