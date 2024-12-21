@@ -8,24 +8,24 @@ export const Block8 = () => {
           <div className="u-repeater u-repeater-1">
             <div className="u-align-center u-border-2 u-border-palette-2-base u-container-align-center u-container-style u-list-item u-repeater-item u-shape-rectangle u-white u-list-item-1" data-animation-name="customAnimationIn" data-animation-duration="1750" data-animation-delay="250">
               <div className="u-container-layout u-similar-container u-valign-top u-container-layout-1">
-                <h3 className="u-custom-font u-font-montserrat u-text u-text-3">Здоровье</h3>
-                <p className="u-file-icon u-text u-text-4">Неограниченные занятия <br />Ежедневный шкафчик <br />Оценка физической формы <br />Гостевые пропуска <br />1 сеанс PT
+                <h3 className="u-custom-font u-font-montserrat u-text u-text-3">Standart</h3>
+                <p className="u-file-icon u-text u-text-4">Неограниченные занятия <br/>Бассейн<br/>Сауна<br/>Персональный шкафчик<br/>
                 </p>
                 <a href="#" className="u-active-white u-border-2 u-border-active-grey-50 u-border-hover-grey-50 u-border-palette-2-base u-btn u-button-style u-custom-font u-font-montserrat u-hover-white u-palette-2-base u-text-body-color u-btn-1"> Тарифы недоступны</a>
               </div>
             </div>
             <div className="u-align-center u-border-2 u-border-palette-2-base u-container-align-center u-container-style u-list-item u-repeater-item u-shape-rectangle u-white u-list-item-2" data-animation-name="customAnimationIn" data-animation-duration="1750" data-animation-delay="250">
               <div className="u-container-layout u-similar-container u-valign-top u-container-layout-2">
-                <h3 className="u-custom-font u-font-montserrat u-text u-text-5">Здоровье плюс</h3>
-                <p className="u-file-icon u-text u-text-6"> Health's Features + <br />Услуги прачечной <br />Ночной шкафчик<br />Гостевые пропуска<br />3 сеанса физкультуры
+                <h3 className="u-custom-font u-font-montserrat u-text u-text-5">Comfort</h3>
+                <p className="u-file-icon u-text u-text-6"> Услуги пакета Standart<br/>Услуги прачечной <br/>Массажная терапия<br/>Составление диеты<br/>Составление графика тренировок
                 </p>
                 <a href="#" className="u-active-white u-border-2 u-border-active-grey-50 u-border-hover-grey-50 u-border-palette-2-base u-btn u-button-style u-custom-font u-font-montserrat u-hover-white u-palette-2-base u-text-body-color u-btn-2"> Тарифы недоступны</a>
               </div>
             </div>
             <div className="u-align-center u-border-2 u-border-palette-2-base u-container-align-center u-container-style u-list-item u-repeater-item u-shape-rectangle u-white u-list-item-3" data-animation-name="customAnimationIn" data-animation-duration="1750" data-animation-delay="250">
               <div className="u-container-layout u-similar-container u-valign-top u-container-layout-3">
-                <h3 className="u-custom-font u-font-montserrat u-text u-text-7">Другой</h3>
-                <p className="u-file-icon u-text u-text-8"> Корпоративный <br />Соседский <br />Студенческий<br />Гостевой пропуск<br />Супружеский
+                <h3 className="u-custom-font u-font-montserrat u-text u-text-7">Best</h3>
+                <p className="u-file-icon u-text u-text-8"> Услуги пакета Comfort<br/>Персональный тренер<br/>Персональный диетолог<br/>
                 </p>
                 <a href="#" className="u-active-white u-border-2 u-border-active-grey-50 u-border-hover-grey-50 u-border-palette-2-base u-btn u-button-style u-custom-font u-font-montserrat u-hover-white u-palette-2-base u-text-body-color u-btn-3"> Подробнее</a>
               </div>

@@ -9,8 +9,8 @@ export const Block11 = () => {
                   <div className="u-layout-col">
                     <div className="u-align-left u-container-align-left u-container-style u-layout-cell u-left-cell u-size-60 u-layout-cell-1" data-animation-name="customAnimationIn" data-animation-duration="1500">
                       <div className="u-container-layout u-valign-middle u-container-layout-1">
-                        <h2 className="u-text u-text-1">Наши тренеры</h2>
-                        <p className="u-text u-text-2"> Специалисты высокого класса. Персонал подобран на самых выских требованиях.</p>
+                        <h2 className="u-text u-text-1">Наша команда</h2>
+                        <p className="u-text u-text-2"> Каждый из наших тренеров — это не просто специалист, а настоящий наставник, который вдохновляет и поддерживает на пути к вашим целям.</p>
                         <a href="#" className="u-active-black u-border-2 u-border-palette-2-base u-btn u-button-style u-hover-black u-palette-2-base u-btn-2">Подробнее</a>
                       </div>
                     </div>
