@@ -1,0 +1,148 @@
+
+  
+  .overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(0, 0, 0, 0.75);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    animation: fadeIn 0.5s;
+  }
+  
+  .modal {
+    background: #fff;
+    padding: 30px;
+    max-width: 500px;
+    width: 100%;
+    border-radius: 15px;
+    box-shadow: 0 8px 30px rgba(0, 0, 0, 0.2);
+    text-align: center;
+    transition: all 0.3s ease-in-out;
+    transform: scale(1);
+    animation: zoomIn 0.3s;
+  }
+
+  /* Выровненные кнопки */
+  .button-container {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+  }
+  .button-container button {
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+  }
+  .message {
+    text-align: center;
+    margin-top: 10px;
+  }
+  .modal h2 {
+    margin-top: 0;
+    color: #333;
+    font-size: 2em;
+  }
+  
+  .modalForm {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+  }
+  
+  .modalForm label {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    color: #666;
+    font-size: 1.1em;
+    font-weight: bold;
+  }
+  
+  .modalForm input {
+    padding: 12px;
+    width: 100%;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.1);
+    transition: all 0.3s ease-in-out;
+  }
+  
+  .modalForm input:focus {
+    border-color: #007BFF;
+    box-shadow: 0 0 5px rgba(0, 123, 255, 0.5);
+    outline: none;
+  }
+  
+  button {
+    padding: 12px 25px;
+    margin-top: 20px;
+    background-color: #007BFF;
+    color: white;
+    border: none;
+    border-radius: 30px;
+    cursor: pointer;
+    transition: background-color 0.3s ease-in-out, transform 0.3s ease-in-out;
+  }
+  
+  button:hover {
+    background-color: #0056b3;
+    transform: translateY(-2px);
+  }
+  
+  .closeButton {
+    background-color: red;
+    border-radius: 30px;
+  }
+  
+  .closeButton:hover {
+    background-color: darkred;
+    transform: translateY(-2px);
+  }
+  
+  .openButton {
+    padding: 12px 25px;
+    background-color: #28a745;
+    color: white;
+    border: none;
+    border-radius: 30px;
+    cursor: pointer;
+    transition: background-color 0.3s ease-in-out, transform 0.3s ease-in-out;
+    margin-bottom: 20px;
+  }
+  
+  .openButton:hover {
+    background-color: #218838;
+    transform: translateY(-2px);
+  }
+  
+  .submitButton {
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,121,59,1) 35%, rgba(0,212,255,1) 100%);
+    border-radius: 30px;
+    width: 100%;
+    color: white;
+    text-transform: uppercase;
+    letter-spacing: 1.2px;
+    box-shadow: 0 4px 15px rgba(0, 123, 255, 0.5);
+    transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
+  }
+  
+  .submitButton:hover {
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,121,59,1) 50%, rgba(0,212,255,1) 100%);
+    transform: translateY(-2px);
+    box-shadow: 0 6px 20px rgba(0, 123, 255, 0.5);
+  }
+  
+  @keyframes fadeIn {
+    from { opacity: 0; }
+    to { opacity: 1; }
+  }
+  
+  @keyframes zoomIn {
+    from { transform: scale(0.7); }
+    to { transform: scale(1); }
+  }
+  

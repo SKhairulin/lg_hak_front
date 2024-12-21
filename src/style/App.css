@@ -44099,7 +44099,7 @@ a.u-link.u-text-hover-grey-90:hover {
  html { font-size: 16px; }
  /*end-variables base-font-size*/
  .u-section-1 {
-  background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('images/-min.jpg');
+  background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../../public/images/-min.jpg');
   background-position: 50% 50%;
 }
 
@@ -44598,7 +44598,7 @@ a.u-link.u-text-hover-grey-90:hover {
     font-size: 1.875rem;
   }
 } .u-section-3 {
-  background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('images/-min.jpg');
+  background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../../public/images/-min.jpg');
   background-position: 50% 50%;
 }
 
@@ -45215,7 +45215,7 @@ a.u-link.u-text-hover-grey-90:hover {
 
 .u-section-6 .u-image-1 {
   min-height: 377px;
-  background-image: url("images/ghhg.jpg");
+  background-image: url("../../public/images/ghhg.jpg");
   background-position: 50% 50%;
   --animation-custom_in-translate_x: 0px;
   --animation-custom_in-translate_y: 300px;
@@ -45246,7 +45246,7 @@ a.u-link.u-text-hover-grey-90:hover {
 
 .u-section-6 .u-image-2 {
   min-height: 381px;
-  background-image: url("images/sd3.jpg");
+  background-image: url("../../public/images/sd3.jpg");
   background-position: 50% 50%;
   --animation-custom_in-translate_x: 0px;
   --animation-custom_in-translate_y: -300px;
@@ -45261,7 +45261,7 @@ a.u-link.u-text-hover-grey-90:hover {
 
 .u-section-6 .u-image-3 {
   min-height: 374px;
-  background-image: url("images/jjhhj.jpg");
+  background-image: url("../../public/images/jjhhj.jpg");
   background-position: 50% 50%;
   --animation-custom_in-translate_x: 0px;
   --animation-custom_in-translate_y: 300px;
@@ -45292,7 +45292,7 @@ a.u-link.u-text-hover-grey-90:hover {
 
 .u-section-6 .u-image-4 {
   min-height: 374px;
-  background-image: url("images/fggfg.jpg");
+  background-image: url("../../public/images/fggfg.jpg");
   background-position: 50% 50%;
   --animation-custom_in-translate_x: 0px;
   --animation-custom_in-translate_y: -300px;
@@ -45973,7 +45973,7 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 
 .u-section-8 .u-image-1 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url("images/vbvbvbbb.jpg");
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url("../../public/images/vbvbvbbb.jpg");
   background-position: 50% 50%;
   --animation-custom_in-translate_x: 0px;
   --animation-custom_in-translate_y: 0px;
@@ -46002,7 +46002,7 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 
 .u-section-8 .u-image-2 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url("images/dfdffr.jpg");
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url("../../public/images/dfdffr.jpg");
   background-position: 50% 50%;
   --animation-custom_in-translate_x: 0px;
   --animation-custom_in-translate_y: 0px;
@@ -46031,7 +46031,7 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 
 .u-section-8 .u-image-3 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url("images/fgfgg.jpg");
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url("../../public/images/fgfgg.jpg");
   background-position: 50% 50%;
   --animation-custom_in-translate_x: 0px;
   --animation-custom_in-translate_y: 0px;
@@ -46060,7 +46060,7 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 
 .u-section-8 .u-image-4 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url("images/fgfg.jpg");
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url("../../public/images/fgfg.jpg");
   background-position: 50% 50%;
   --animation-custom_in-translate_x: 0px;
   --animation-custom_in-translate_y: 0px;
@@ -46089,7 +46089,7 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 
 .u-section-8 .u-image-5 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url("images/bnbnbnbnnn.jpg");
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url("../../public/images/bnbnbnbnnn.jpg");
   background-position: 50% 50%;
   --animation-custom_in-translate_x: 0px;
   --animation-custom_in-translate_y: 0px;
@@ -46118,7 +46118,7 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 
 .u-section-8 .u-image-6 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url("images/ghh.jpg");
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url("../../public/images/ghh.jpg");
   background-position: 50% 50%;
   --animation-custom_in-translate_x: 0px;
   --animation-custom_in-translate_y: 0px;
@@ -46213,7 +46213,7 @@ a.u-link.u-text-hover-grey-90:hover {
     width: 340px;
   }
 } .u-section-9 {
-  background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.25), rgba(0, 0, 0, 0.25)), url('images/t-min.jpg');
+  background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.25), rgba(0, 0, 0, 0.25)), url('../../public/images/t-min.jpg');
   background-position: 50% 0%;
 }
 
@@ -46382,7 +46382,7 @@ a.u-link.u-text-hover-grey-90:hover {
 
 .u-section-10 .u-image-1 {
   min-height: 300px;
-  background-image: url("images/31.jpg");
+  background-image: url("../../public/images/31.jpg");
   background-position: 50% 50%;
   --animation-custom_in-translate_x: 50px;
   --animation-custom_in-translate_y: 0px;
@@ -46397,7 +46397,7 @@ a.u-link.u-text-hover-grey-90:hover {
 
 .u-section-10 .u-image-2 {
   min-height: 300px;
-  background-image: url("images/47903769-128d-2717-f024-174d8caec8e7.jpg");
+  background-image: url("../../public/images/47903769-128d-2717-f024-174d8caec8e7.jpg");
   background-position: 50% 50%;
   --animation-custom_in-translate_x: 50px;
   --animation-custom_in-translate_y: 0px;
@@ -46412,7 +46412,7 @@ a.u-link.u-text-hover-grey-90:hover {
 
 .u-section-10 .u-image-3 {
   min-height: 300px;
-  background-image: url("images/ec3612be-da06-dd70-99a7-706752440458.jpg");
+  background-image: url("../../public/images/ec3612be-da06-dd70-99a7-706752440458.jpg");
   background-position: 50% 50%;
   --animation-custom_in-translate_x: 50px;
   --animation-custom_in-translate_y: 0px;
@@ -46427,7 +46427,7 @@ a.u-link.u-text-hover-grey-90:hover {
 
 .u-section-10 .u-image-4 {
   min-height: 300px;
-  background-image: url("images/2.jpg");
+  background-image: url("../../public/images/2.jpg");
   background-position: 50% 50%;
   --animation-custom_in-translate_x: 50px;
   --animation-custom_in-translate_y: 0px;
@@ -46549,7 +46549,7 @@ a.u-link.u-text-hover-grey-90:hover {
     min-height: 354px;
   }
 } .u-section-11 {
-  background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.45), rgba(0, 0, 0, 0.45)), url('images/vbvbt-min.jpg');
+  background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.45), rgba(0, 0, 0, 0.45)), url('../../public/images/vbvbt-min.jpg');
   background-position: 50% 50%;
 }
 
