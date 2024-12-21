@@ -8,7 +8,7 @@ export const login = async (json) => {
         }
     })
     sessionStorage.setItem('accessToken', data.access_token)
-    return jwtDecode(data.access)
+    return jwtDecode(data.access_token)
 }
 
 export const reg = async (json) => {

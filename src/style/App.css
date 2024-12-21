@@ -4,6 +4,10 @@
  * Copyright 2014-2021 Froala Labs
  */
 
+ * {
+  scroll-behavior: smooth;
+ }
+
  .fr-clearfix::after {
   clear: both;
   display: block;
@@ -3226,12 +3230,10 @@ body,
 aside,
 .u-sidebar-block,
 section,
-header,
 footer {
   position: relative;
 }
 section > *,
-header > *,
 footer > *,
 .u-sheet > *,
 .u-section-row > * {
@@ -46795,4 +46797,14 @@ a.u-link.u-text-hover-grey-90:hover {
     padding-left: 25px;
     padding-right: 25px;
   }
+}
+header{
+    position: relative !important;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 100; /* Для уверенности, что header будет поверх всего */
+    background-color: rgba(0,0,0,0.5);
+    color: #ffc63d ;
+    transition: background-color 0.3s ease;
 }

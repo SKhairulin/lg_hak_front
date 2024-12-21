@@ -7,7 +7,7 @@ export const Notification = ({ message, visible, duration, setVis }) => {
   useEffect(() => {
     if (visible) {
       setShow(true)
-      const timer = setTimeout(() => {setShow(false);setVis(false)}, duration);
+      const timer = setTimeout(() => {setShow(false);setVis({visible:false, message:''})}, duration);
       return () => clearTimeout(timer);
     }
   }, [visible, duration]);
